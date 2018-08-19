@@ -1,2 +1,6 @@
 # Alt-H1 ArcadiaTron
-ArcadiaTron is a token created to help establish a dectralized blender service for the Tron network as well as helping people deal with privacy and a myriad of other uses.  
+ArcadiaTron is a token created to help with privacy when dealing with the Tron Network.
+  * Blender service on utilizing TOR
+  * Secure wallet with more advanced encryption.
+  * A myriad of other uses.
+  
