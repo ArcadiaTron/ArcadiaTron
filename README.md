@@ -1,3 +1,8 @@
+<p align="center">
+  <br><br>
+  ![](ACTLogosmall.png)
+</p>
+
 # ArcadiaTron (ACT)
 ![](ACTLogosmall.png)
 _____________
