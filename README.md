@@ -1,6 +1,6 @@
 <p align="center">
   <br><br>
-  ![](ACTLogosmall.png)
+  <img src="https://imgur.com/a/ppL5Ep9">
 </p>
 
 # ArcadiaTron (ACT)
