@@ -1,8 +1,3 @@
-<p align="center">
-  <br><br>
-  <img src="https://imgur.com/a/ppL5Ep9">
-</p>
-
 # ArcadiaTron (ACT)
 ![](ACTLogosmall.png)
 _____________
