@@ -6,3 +6,5 @@ Tron is not anonymous. All transactions are kept in a public ledger and your IP 
   * Arcadiatron is working on building a blender/mixing service utilizing TOR and other private security features.
   * The ArcadiTron token will allow a user to pay for this serive using the ArcadiaTron token.
   * ArcadiaTron tokens can be used to pay for blender/mixer services, payments, betting, online games, fundraisers, tipping and a myriad of other uses.  
+
+![ArcadianTron Flow Chart](https://imgur.com/a/sdrmpRZ)
