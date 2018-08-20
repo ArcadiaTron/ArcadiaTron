@@ -1,4 +1,5 @@
-# ArcadiaTron (ACT) ![](ACTLogosmall.png)
+![](ACTLogosmall.png)
+# ArcadiaTron (ACT)
 _____________
 ArcadiaTron is a token that helps deal with privacy when doing transactions within the Tron Network as well as being used for ecommerce, fundraisers, payments, and tipping.
 
