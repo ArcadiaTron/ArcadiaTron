@@ -9,5 +9,6 @@ Tron is not anonymous. All transactions are kept in a public ledger and your IP 
   * ArcadiaTron tokens can be used to pay for mixer/blender services, payments, betting, online games, fundraisers, tipping and a myriad of other uses.
 
 [Telegram Channel](https://t.me/ArcadiaTron)
+[Tronscan Link](https://tronscan.org/#/token/ArcadiaTron)
 
 ![](flowchart.png)
